@@ -1,0 +1,9 @@
+namespace gitrepo;
+
+public class Aulas
+{
+    public int Id { get; set; }
+    public string EdificioId { get; set; }
+    public string AulaId { get; set; }
+    
+} 
